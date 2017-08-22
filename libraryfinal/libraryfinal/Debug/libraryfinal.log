@@ -1,0 +1,108 @@
+﻿Build started 27/01/2015 16:23:10.
+     1>Project "C:\Users\User\Documents\Visual Studio 2013\Projects\libraryfinal\libraryfinal\libraryfinal.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         E:\Program Files 101\VS\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt Library_Management.c
+         Library_Management.c
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\general_functions.h(17): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 e:\program files 101\vs\vc\include\conio.h(131) : see declaration of 'getch'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\general_functions.h(29): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 e:\program files 101\vs\vc\include\conio.h(131) : see declaration of 'getch'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\general_functions.h(73): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files 101\vs\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\general_functions.h(97): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files 101\vs\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\general_functions.h(116): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 e:\program files 101\vs\vc\include\conio.h(131) : see declaration of 'getch'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\general_functions.h(151): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files 101\vs\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\general_functions.h(154): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files 101\vs\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\general_functions.h(155): warning C4146: unary minus operator applied to unsigned type, result still unsigned
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\core_functions.h(30): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files 101\vs\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\core_functions.h(35): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 e:\program files 101\vs\vc\include\conio.h(131) : see declaration of 'getch'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\core_functions.h(42): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files 101\vs\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\core_functions.h(45): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files 101\vs\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\core_functions.h(48): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files 101\vs\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\core_functions.h(51): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files 101\vs\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\core_functions.h(54): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files 101\vs\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\core_functions.h(61): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files 101\vs\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\core_functions.h(79): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files 101\vs\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\core_functions.h(81): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files 101\vs\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\core_functions.h(117): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 e:\program files 101\vs\vc\include\conio.h(131) : see declaration of 'getch'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\core_functions.h(132): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files 101\vs\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\core_functions.h(133): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files 101\vs\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\core_functions.h(168): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 e:\program files 101\vs\vc\include\conio.h(131) : see declaration of 'getch'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\library_management.c(71): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files 101\vs\vc\include\time.inl(86) : see declaration of 'ctime'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\library_management.c(72): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files 101\vs\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\library_management.c(109): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 e:\program files 101\vs\vc\include\conio.h(131) : see declaration of 'getch'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\library_management.c(129): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 e:\program files 101\vs\vc\include\conio.h(131) : see declaration of 'getch'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\library_management.c(136): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 e:\program files 101\vs\vc\include\conio.h(131) : see declaration of 'getch'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\library_management.c(147): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files 101\vs\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\library_management.c(151): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files 101\vs\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\library_management.c(161): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 e:\program files 101\vs\vc\include\conio.h(131) : see declaration of 'getch'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\library_management.c(143): warning C4101: 'i' : unreferenced local variable
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\library_management.c(179): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files 101\vs\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\library_management.c(180): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files 101\vs\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\library_management.c(192): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 e:\program files 101\vs\vc\include\conio.h(131) : see declaration of 'getch'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\library_management.c(193): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files 101\vs\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\library_management.c(213): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 e:\program files 101\vs\vc\include\conio.h(131) : see declaration of 'getch'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\library_management.c(218): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 e:\program files 101\vs\vc\include\conio.h(131) : see declaration of 'getch'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\library_management.c(233): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 e:\program files 101\vs\vc\include\conio.h(131) : see declaration of 'getch'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\library_management.c(243): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 e:\program files 101\vs\vc\include\conio.h(131) : see declaration of 'getch'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\library_management.c(258): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files 101\vs\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\library_management.c(294): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files 101\vs\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\library_management.c(295): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files 101\vs\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\library_management.c(306): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files 101\vs\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\library_management.c(309): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files 101\vs\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\library_management.c(312): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files 101\vs\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\library_management.c(315): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files 101\vs\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\library_management.c(318): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\program files 101\vs\vc\include\stdio.h(283) : see declaration of 'scanf'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\library_management.c(335): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 e:\program files 101\vs\vc\include\conio.h(131) : see declaration of 'getch'
+     1>c:\users\user\documents\visual studio 2013\projects\libraryfinal\libraryfinal\general_functions.h(169): warning C4715: 'change_password' : not all control paths return a value
+       Link:
+         E:\Program Files 101\VS\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\User\Documents\Visual Studio 2013\Projects\libraryfinal\Debug\libraryfinal.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\User\Documents\Visual Studio 2013\Projects\libraryfinal\Debug\libraryfinal.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\User\Documents\Visual Studio 2013\Projects\libraryfinal\Debug\libraryfinal.lib" /MACHINE:X86 Debug\Library_Management.obj
+         libraryfinal.vcxproj -> C:\Users\User\Documents\Visual Studio 2013\Projects\libraryfinal\Debug\libraryfinal.exe
+     1>Done Building Project "C:\Users\User\Documents\Visual Studio 2013\Projects\libraryfinal\libraryfinal\libraryfinal.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.27
